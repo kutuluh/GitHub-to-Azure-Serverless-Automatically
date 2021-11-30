@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "baseName": {
-            "defaultValue": "afun95demo",
+            "defaultValue": "funcdemo",
             "type": "string",
             "metadata": {
                 "description": "Name use as base-template to named the resources deployed in Azure."
@@ -18,7 +18,7 @@
         },
         "GitHubURL": {
            "type": "string",
-           "defaultValue": "https://github.com/FBoucher/GitHub-to-Azure-Serverless-Automatically.git",
+           "defaultValue": "https://github.com/kutuluh/GitHub-to-Azure-Serverless-Automatically.git",
            "metadata": {
                 "description": "The URL of GitHub (ending by .git)"
             }
